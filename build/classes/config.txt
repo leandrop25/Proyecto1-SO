@@ -1,0 +1,16 @@
+segsPerDay: 2
+deadline: 15
+studio1:
+nWriterDevs: 2
+nStageDevs: 5
+nAnimatorDevs: 2
+nActorDevs: 2
+nPlotTwistDevs: 2
+nAssemblers: 1
+studio2:
+nWriterDevs: 5
+nStageDevs: 8
+nAnimatorDevs: 2
+nActorDevs: 2
+nPlotTwistDevs: 2
+nIntegrators: 2
